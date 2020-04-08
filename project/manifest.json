@@ -1,0 +1,9 @@
+{
+  "name": "New Tab Overdrive",
+  "description" : "A new tab page for a modern internet browsing experience",
+  "chrome_url_overrides" : {
+    "pageToOverride": "index.html"
+  },
+  "version": "1.0",
+  "manifest_version": 2
+}
